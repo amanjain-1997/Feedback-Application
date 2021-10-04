@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "772448345526",
+    "firebase_url": "https://feedbackapp-cacd0.firebaseio.com",
+    "project_id": "feedbackapp-cacd0",
+    "storage_bucket": "feedbackapp-cacd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772448345526:android:d48ae3cefa374a816cf517",
+        "android_client_info": {
+          "package_name": "com.aman.feedback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772448345526-vi10os2pr4d2jjhsg9sfs062u706nnkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aman.feedback",
+            "certificate_hash": "1475fcde066767a88c885fd1fbe94b43c3f582a5"
+          }
+        },
+        {
+          "client_id": "772448345526-lm2k1n190siu3pb2q53kum46ps01ibt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRri3lArwsNRdfeFaszDyOda16zNZdbfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772448345526-lm2k1n190siu3pb2q53kum46ps01ibt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
